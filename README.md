@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **My final year project**
 
-- get to about me -> [here](https://subhaz18.github.io/myportfolio/)
+- get to know about me -> [here](https://subhaz18.github.io/myportfolio/)
 
 - 📝 I write about movies on [letterboxd](https://letterboxd.com/subhash_18/)
 
