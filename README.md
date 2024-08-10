@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://subhaz18.github.io/myportfolio/)
 
-- 📝 I write review on [letterboxd](https://letterboxd.com/subhash_18/)
+- 📝 I write about movies on [letterboxd](https://letterboxd.com/subhash_18/)
 
 - 📫 How to reach me **psubhash2004@gmail.com**
 
